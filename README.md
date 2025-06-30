@@ -10,4 +10,4 @@ Man merkt, dass die aktuellen logos irgendwie 10 Jahre alt sind. Es wäre auch g
 - Farbenversionen: Farbig auf weiß, Farbig auf Schwarz/Dunkelgrau, Farbig auf Hauptfarbe, Monochrom auf hellem Hintergrund, Monochrom auf dunklem Hintergrund
 - Ausschiließlich ein Refresh: Die Recognition der bestehenden Logos muss auf die Neuen übertragbar sein
 
-![logo concept](logo/concept.png)
+![logo concept](tuerme-2025.png)
